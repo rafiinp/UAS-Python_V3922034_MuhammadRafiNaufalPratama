@@ -1,8 +1,8 @@
 # UAS-Python_V3922034_MuhammadRafiNaufalPratama
 
-Saya mengambil data dari website E-Commerce yaitu Bukalapak pada toko portal_grosir_herbal, Halaman yang saya ambil mulai dari Halaman 1 sampai Halaman 4 dengan Total produk yang ada di toko sebanyak 52 produk. Data yang saya ambil mencangkup id_seller, username, nama_toko, level_toko, premium_toko, id_produk, nama_produk, kategori, kondisi, rating, jumlah_rating, stok, jumlah_interest, jumlah_sold, jumlah_view, harga, harga_asli, diskon, dan deskripsi
+Saya mengambil data dari website E-Commerce yaitu Bukalapak pada toko portal_grosir_herbal, Halaman yang saya ambil mulai dari Halaman 1 sampai Halaman 4 dengan Total produk yang ada di toko sebanyak 135 produk.
 
-Script tersebut digunakan untuk mengambil data produk dari halaman toko penjual di situs Bukalapak (https://www.bukalapak.com/u/). Berikut adalah deskripsi data yang diambil oleh script:
+Berikut adalah data yang diambil oleh script:
 
 1. Informasi Penjual:
    - Id Penjual (idseller): ID unik penjual di Bukalapak.
